@@ -1,0 +1,9 @@
+pytest
+locust
+appium
+colorlog
+pymysql
+pyzmq
+prometheus_client
+colorlog
+python-docx
